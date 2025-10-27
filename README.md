@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://github.com/Lu1334/Lu1334/blob/main/avatar.png?raw=true" 
+    src="https://github.com/lu1334/Lu1334/blob/main/image.png" 
     alt="banner"
     width="100%"
     style="max-height: 260px; object-fit: cover; border-radius: 12px;"
