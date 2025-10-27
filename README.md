@@ -1,4 +1,13 @@
-# 👋 ¡Hola! Soy Sandy Andrial (Lu1334)
+<p align="center">
+  <img 
+    src="https://github.com/Lu1334/Lu1334/blob/main/avatar.png?raw=true" 
+    alt="banner"
+    width="100%"
+    style="max-height: 260px; object-fit: cover; border-radius: 12px;"
+  />
+</p>
+
+# 🤹🏾‍♂️ ¡Hola! Soy Sandy Andrial (Lu1334)
 
 Soy un estudiante autodidacta y apasionado por el desarrollo web.  
 Actualmente estoy centrado en aprender **React, TypeScript y todo el ecosistema moderno de front-end**,  
