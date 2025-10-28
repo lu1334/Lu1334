@@ -9,7 +9,7 @@
 
 # 🤹🏾‍♂️ ¡Hola! Soy Sandy Andrial (Lu1334)
 
-Soy un estudiante autodidacta y apasionado por el desarrollo web.  
+Soy un estudiante apasionado por el desarrollo web.  
 Actualmente estoy centrado en aprender **React, TypeScript y todo el ecosistema moderno de front-end**,  
 con el objetivo de convertirme en **desarrollador full stack**.
 
@@ -33,15 +33,20 @@ con el objetivo de convertirme en **desarrollador full stack**.
 
 ---
 
-## 🧠 Un poco sobre mí
-Me encanta entender cómo funcionan las cosas desde dentro y no solo “hacer que funcionen”.  
-Vengo del mundo de la hostelería, pero decidí darle un giro a mi vida:  
-cada línea de código que escribo es un paso hacia una nueva vida profesional 💪🏾.  
+# 🧠 Un poco sobre mí
 
-Me gusta ver el código como una herramienta para construir, expresar y transformar mi futuro.  
-Soy curioso, constante y disfruto mucho ver cómo algo que empiezo desde cero termina cobrando vida en pantalla.  
+Me encanta entender cómo funcionan las cosas desde dentro y no solo “hacer que funcionen”.
+Vengo del mundo de la hostelería, pero decidí darle un giro a mi vida:
+cada línea de código que escribo es un paso hacia una nueva vida profesional 💪🏾.
 
-No busco parecer “senior”, busco aprender *de verdad*; busco escribir mi propia historia.
+En estos momentos estoy en formación dentro de un bootcamp de desarrollo Full Stack,
+pero complemento cada módulo con un enfoque autodidacta.
+Creo en aprender haciendo las cosas por mí mismo, cuestionando y explorando más allá del temario del curso.
+Intento entender y dominar las herramientas a través de la práctica diaria y la curiosidad constante.
+
+Me gusta ver el código como una herramienta para construir, expresar y transformar mi futuro.
+Soy curioso, constante y disfruto mucho ver cómo algo que empiezo desde cero termina cobrando vida en pantalla.
+No busco parecer “senior”, busco aprender de verdad, busco escribir mi propia historia.
 
 ---
 
